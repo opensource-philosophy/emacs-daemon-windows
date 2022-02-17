@@ -1,7 +1,7 @@
 Executables to get emacs daemon set up on Windows. 
 
 ## Disclaimer
-Think twice about whether you really need or want to support Microsoft. If you want to try out Linux on your machine and still be able to use Windows, you have the opportunity to dual-boot; see here [link].
+Think twice about whether you really need or want to support Windows. If you want to try out Linux on your machine and still be able to use Windows, you have the opportunity to dual-boot; see here [link].
 
 ## How to Get it Working
 1. Add the folder in which `emacsclient.exe`, `emacsclientw.exe` and `runemacs.exe` are located in to your `Path` variable. See [here](https://docs.oracle.com/en/database/oracle/machine-learning/oml4r/1.5.1/oread/creating-and-modifying-environment-variables-on-windows.html) for a guide.
